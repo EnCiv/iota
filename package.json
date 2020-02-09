@@ -1,0 +1,16 @@
+{
+  "name": "iota",
+  "version": "0.0.1",
+  "description": "the iota mongo model",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "David Fridley",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.0",
+    "mongo-models": "^3.0.2",
+    "mongodb": "^3.5.2"
+  }
+}
